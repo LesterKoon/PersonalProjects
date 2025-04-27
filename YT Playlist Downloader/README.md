@@ -1,4 +1,4 @@
-# Youtube Playlist Downloader
+# Youtube Playlist Downloader [Deprecated]
 
 This is a minor utility Python script that I have written to help automate and simplify the process of downloading audio/mp3 files from a YouTube playlist
 
